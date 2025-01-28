@@ -1,2 +1,2 @@
 # review_python
-first practice , asignment2_2
+first practice , assignment2_2
